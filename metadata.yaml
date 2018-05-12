@@ -1,0 +1,37 @@
+_repo: West-African-studies_38870
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Cardi, C. N. (Charles Napoleon), comte de
+    alias: Cardi, Charles Napoleon, comte de
+    gutenberg_agent_id: '45157'
+    url: http://www.gutenberg.org/2009/agents/45157
+  - agent_name: Harford, John
+    gutenberg_agent_id: '37214'
+    url: http://www.gutenberg.org/2009/agents/37214
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingsley, Mary Henrietta
+    alias: Kingsley, Mary H.
+    birthdate: 1862
+    deathdate: 1900
+    gutenberg_agent_id: '1894'
+    url: http://www.gutenberg.org/2009/agents/1894
+description: ''
+gutenberg_issued: '2012-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa, West -- Description and travel'
+- !lcsh 'Ethnology -- Africa, West'
+title: West African studies
+url: http://www.gutenberg.org/ebooks/38870
